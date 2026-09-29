@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix فندق موسى كوست | Mousa Coast Resort",
+  "description": "الموقع الرسمي لفندق ومنتجع موسى كوست - رأس سدر. حيث تلتقي الراحة بالجمال. شاطئ رملي خاص، حمامات سباحة، أكوا بارك، شقق وأجنحة وغرف فندقية فاخرة على بعد 90 دقيقة من القاهرة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
